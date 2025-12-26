@@ -1,4 +1,4 @@
-# 6-Wheel Rover with 6-DOF Manipulator Arm
+# Remote Controlled Rover with Manipulator Arm
 
 A fully remote-controlled rover featuring an articulated robotic arm, real-time sensor telemetry, and intuitive physical control interface.
 
